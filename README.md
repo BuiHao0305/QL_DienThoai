@@ -1,4 +1,4 @@
-### How to run file Frontend of BuiHao and TaViet<br>
+### How to run file Frontend 
 #### install angular về máy<br>
 __Bước 1: Cài đặt Node.js__<br>
 __Angular__ yêu cầu __Node.js__ để chạy. Nếu bạn chưa cài Node.js, hãy tải về và cài đặt:<br>
