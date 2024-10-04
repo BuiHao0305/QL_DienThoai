@@ -8,7 +8,7 @@ __Bước 2: Cài đặt Angular CLI__<br>
 -1.mở terminal và run lệnh<br>
 -2.`npm install -g @angular/cli`<br>
 #### run file frontend <br>
--để chạy frontend sau khi clone về, các bạn cd tới file `spike-angular-free-main/package`<br>
--sau đó mở `terminal` gõ lệnh `npm install` __(1)__ để download các package của angular và<br>
+-để chạy frontend sau khi clone về đó mở `terminal`
+- gõ lệnh `npm install` __(1)__ để download các package của angular và<br>
 -`npm i boostrap` __(2)__ và  <br>
 -sau đó để chạy thì `ng serve`<br>
